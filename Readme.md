@@ -1,11 +1,11 @@
-Name                  ID             Work Description
-Rajbir Kaur          1892862        Work on Wireframe
-Varinder Kaur        1893208        Work on Wireframe
-Manpreet Singh       1892880        Work on Prototype
-Amarjit Singh        1892781        Work on Prototype
-Raman Kumar Verma    1892847        Work on UML, case diagrame & Designing.
+                                Name                  ID             Work Description
+                                Rajbir Kaur          1892862         Work on Wireframe
+                                Varinder Kaur        1893208         Work on Wireframe
+                                Manpreet Singh       1892880         Work on Prototype
+                                Amarjit Singh        1892781         Work on Prototype
+                                Raman Kumar Verma    1892847         Work on UML, case diagrame & Designing.
 
-Group No - 6
+                                                   Group No - 6
 
 
 
